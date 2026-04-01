@@ -9,13 +9,13 @@
 ## 📸 Скриншоты
 
 ### 🏠 Главная страница
-![Main Page](docs/screenshots/main.png)
+![Main Page](docs/main.png)
 
 ### 🔐 Авторизация
-![Auth](docs/screenshots/auth.png)
+![Auth](docs/auth.png)
 
 ### 🛠 Админ-панель
-![Admin](docs/screenshots/admin.png)
+![Admin](docs/admin.png)
 
 
 ---
